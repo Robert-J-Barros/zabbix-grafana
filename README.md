@@ -16,6 +16,6 @@ cd granfana.conf && docker build -t grafana:1.0
 cd zabbix.conf && docker build -t zabbix:1.3
 ````
 ````sh
-touch aws-config aws-credentials
+cd zabbix.conf/ && touch aws-config aws-credentials
 ````
 
