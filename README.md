@@ -17,5 +17,5 @@ cd zabbix.conf && docker build -t zabbix:1.3
 ````
 ````sh
 touch aws-config aws-credentials
-````sh
+````
 
